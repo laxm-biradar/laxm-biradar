@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm [Your Name]
 
-<!--
-**laxm-biradar/laxm-biradar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate**  
+💻 Completed courses in **DevOps with AWS** and **Java Full Stack Development**  
+🚀 Passionate about Full Stack Development, Cloud, and DevOps automation.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+
+- 🌱 Currently Learned: **Ansible, Terraform, Kubernetes (Beginner)** 
+- 💡 Interested In: **Cloud deployment, automation, scalable applications**  
+- 💬 Ask Me About: **Java, Spring Boot, HTML, CSS, JavaScript, AWS, DevOps**
+
+ ---
+
+ 
+## 🔧 Skills & Technologies  
+
+### 🌐 Frontend Development  
+- HTML5  
+- CSS3  
+- JavaScript (Begginer) 
+
+### ⚙️ Backend Development  
+- Java (Core & Advanced)  
+- Spring Boot, Spring MVC  
+- REST APIs 
+
+### 🗄️ Databases  
+- MySQL  
+- PLSQL  
+
+### ☁️ DevOps & Cloud  
+- AWS  
+- Docker, Kubernetes  
+- CI/CD (Jenkins, GitHub Actions)  
+- Git & GitHub  
+- Shell Scripting (Bash)  
+- Familiar With: Ansible, Terraform  
+
+---
+
+## 📫 How to Reach Me  
+
+- 📧 Email: laxmibiradar651@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/laxmi-biradar-4b803a2a3/
+- 🐙 GitHub: https://github.com/laxm-biradar
+
+
