@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Laxmi Biradar
 
 🎓 **BCA Graduate**  
 💻 Completed courses in **DevOps with AWS** and **Java Full Stack Development**  
